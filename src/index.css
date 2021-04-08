@@ -1,4 +1,7 @@
 body{
     padding:0;
-    color: #fff;
+    margin:0;
+    background-color: #fff;
+    direction: rtl;
+    text-align: right;
 }

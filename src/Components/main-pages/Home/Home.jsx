@@ -1,9 +1,10 @@
 import React from 'react'
+import './Home.css'
 
 const Home =() =>{
 
     return(
-        <div>sdfsdfsdfsdf</div>
+        <div id="home">aaaaaaaaaa</div>
     )
 }
 
